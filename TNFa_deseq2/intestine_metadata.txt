@@ -1,0 +1,5 @@
+paper	srr	treatment
+Rahnamoun2017mutant	SRR5944047	control
+Rahnamoun2017mutant	SRR5944048	control
+Rahnamoun2017mutant	SRZ5944049	TNFa
+Rahnamoun2017mutant	SRZ5944050	TNFa

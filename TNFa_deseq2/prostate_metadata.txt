@@ -1,0 +1,5 @@
+paper	srr	treatment
+Malinen2017crosstalk	SRR3728891	control
+Malinen2017crosstalk	SRR3728890	control
+Malinen2017crosstalk	SRR3728893	TNFa
+Malinen2017crosstalk	SRR3728892	TNFa

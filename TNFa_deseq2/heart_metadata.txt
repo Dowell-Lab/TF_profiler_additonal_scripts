@@ -1,0 +1,16 @@
+paper	srr	treatment
+Danko2013signaling	SRR579293	control
+Danko2013signaling	SRR579294	control
+Luo2014dynamic	SRR1015594	control
+Luo2014dynamic	SRR1015593	control
+Luo2014dynamic	SRR1015592	control
+Luo2014dynamic	SRR1015591	control
+Luo2014dynamic	SRR1015584	control
+Luo2014dynamic	SRR1015583	control
+Danko2013signaling	SRR579295	TNFa
+Danko2013signaling	SRR579296	TNFa
+Danko2013signaling	SRR579297	TNFa
+Danko2013signaling	SRR579298	TNFa
+Luo2014dynamic	SRR1015590	TNFa
+Luo2014dynamic	SRR1015588	TNFa
+Luo2014dynamic	SRR1015585	TNFa

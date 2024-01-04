@@ -1,0 +1,11 @@
+paper	srr	treatment
+Sasse2019nascent	SRR8429046	control
+Sasse2019nascent	SRR8429047	control
+Sasse2019nascent	SRR8429054	control
+Sasse2019nascent	SRR8429055	control
+Jin2013high	SRR639050	control
+Sasse2019nascent	SRR8429048	TNFa
+Sasse2019nascent	SRR8429049	TNFa
+Sasse2019nascent	SRR8429056	TNFa
+Sasse2019nascent	SRR8429057	TNFa
+Jin2013high	SRR639051	TNFa
